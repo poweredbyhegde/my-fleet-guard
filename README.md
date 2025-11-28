@@ -73,5 +73,4 @@ streamlit run dashboard.py
 
 This project was built with a lot of coffee and (many) failed CI/CD runs. Find me here:
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-https://github.com/poweredbyhegde-181717?logo=github&logoColor=white)](https://github.com/poweredbyhegde)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-ManojHegde-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojih)
+[![Portfolio](https://manoj-hegde.com)
