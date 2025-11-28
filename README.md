@@ -72,5 +72,4 @@ streamlit run dashboard.py
 ## 👨‍💻 Connect with Me
 
 This project was built with a lot of coffee and (many) failed CI/CD runs. Find me here:
-
-[![Portfolio](https://manoj-hegde.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manoj--hegde.com-7025F5?style=flat&logo=dribbble&logoColor=white)](https://manoj-hegde.com)
